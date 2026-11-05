@@ -1,0 +1,3 @@
+system operacyjny: windows 11
+środowisko programistyczne: visual studio 22, visual studio code
+języki programowania: c#, react
